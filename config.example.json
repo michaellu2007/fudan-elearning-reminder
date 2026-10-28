@@ -1,0 +1,17 @@
+{
+  "canvas_base_url": "https://elearning.fudan.edu.cn",
+  "canvas_token": "",
+  "recipient": "你的学邮@m.fudan.edu.cn",
+  "remind_days_before": 3,
+  "urgent_last_hours": 5,
+  "uis": {
+    "user": "你的学工号",
+    "password": "你的UIS密码"
+  },
+  "smtp": {
+    "host": "smtp.163.com",
+    "port": 465,
+    "user": "发件邮箱@163.com",
+    "auth_code": "SMTP授权码（不是邮箱登录密码）"
+  }
+}

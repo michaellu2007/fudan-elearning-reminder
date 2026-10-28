@@ -1,0 +1,12 @@
+# 永不提交任何凭据/密钥/状态文件
+.secret*
+*secret*
+config.json
+sent_log.json
+browser_state.json
+_browser_raw.json
+daemon.pid
+daemon.stop
+reminder.log
+BROWSER_FETCH.md
+__pycache__/
